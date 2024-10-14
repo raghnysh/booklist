@@ -1,0 +1,21 @@
+(defun my-export-book-list-doc-to-html ()
+  "Export the book list documentation to HTML."
+  (with-current-buffer (find-file-noselect "doc.org")
+    (let ((org-export-with-toc nil)
+          (org-html-validation-link nil))
+      (org-html-export-to-html))))
+
+(defun my-export-book-list-to-html ()
+  "Export the book list to HTML."
+  (with-current-buffer (find-file-noselect "list.org")
+    (goto-char (point-min))
+    (when (re-search-forward "#\\+name: *list" nil t)
+      (org-table-goto-line 2)
+      (org-table-sort-lines nil ?a)
+      (org-table-insert-column)
+      (goto-char (org-table-end))
+      (insert "#+tblfm: $1=@#-1")
+      (org-table-calc-current-TBLFM))
+    (let ((org-export-with-toc nil)
+          (org-html-validation-link nil))
+      (org-html-export-to-html))))

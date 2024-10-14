@@ -1,0 +1,103 @@
+#+title: Books
+#+author: Raghavendra Nyshadham
+#+date: 2024-10-14
+
+# ====================================================================
+#                                NOTE
+#
+# Do not change the "name" line below.  The table must begin
+# immediately after that line.  The first row of the table must be a
+# data line with the headers, and the second row must be a hline (the
+# line with dashes).  The third and later rows must be data lines, one
+# for each book.  These conditions are assumed in the file
+# "settings.el" that is used to process this file.
+#
+# Update the date above whenever you add a book to the list.  Do not
+# update the date for any other change in the file.
+# ====================================================================
+
+#+name: list
+| Author                                                           | Title                                                          | Shelf |
+|------------------------------------------------------------------+----------------------------------------------------------------+-------|
+| Seth, Vikram                                                     | Two lives                                                      | D1B   |
+| Stephenson, Neal                                                 | In the beginning was the command line                          | D1B   |
+| Seth, Vikram                                                     | A suitable boy                                                 | D1B   |
+| Stoppard, Mirriam                                                | The new pregnancy and birth book                               | D1B   |
+| Pondicherry Science Forum                                        | Issues involved in drug policy                                 | D1B   |
+| Sainath, P.                                                      | Everybody loves a good drought                                 | D1B   |
+| Slawenski, Kenneth                                               | Salinger: a life raised high                                   | D1B   |
+| Ramachandran, Vilayanur                                          | The emerging mind                                              | D1B   |
+| Ramachandran, V.S.; Blakeslee, Sandra                            | Phantoms in the brain                                          | D1B   |
+| Radhakrishnan, S.                                                | The present crisis of faith                                    | D1B   |
+| Sahitya Akademi (pu.)                                            | Indian literature, vol. 178, Mar–Apr, 1997                     | D1B   |
+| Sahitya Akademi (pu.)                                            | Indian literature, vol. 182, Nov–Dec, 1997                     | D1B   |
+| Rao, Raja                                                        | Kanthapura                                                     | D1B   |
+| Rankin, Ian                                                      | The naming of the dead                                         | D1B   |
+| Perec, Georges                                                   | Life: a user's manual                                          | D1B   |
+| Potok, Chaim                                                     | My name is Asher Lev                                           | D1B   |
+| Potok, Chaim                                                     | The promise                                                    | D1B   |
+| Potok, Chaim                                                     | In the beginning                                               | D1B   |
+| Sarma, Visnu; Rajan, Chandra (tr.)                               | The Pancatantra                                                | D1B   |
+| Salinger, J. D.                                                  | Raise high the roofbeam, carpenters / Seymour: an introduction | D1B   |
+| Sarkar, H.; Misra, B. N.; Archaeological Survey of India (pu.)   | Nagarjunakonda                                                 | D1B   |
+| Shah, Idries                                                     | The exploits of the incomparable Mulla Nasrudin                | D1B   |
+| Simon, I. M.                                                     | Meghalaya                                                      | D1B   |
+| Singer, Isaac Bashevis                                           | The estate                                                     | D1B   |
+| Salinger, J. D.                                                  | The catcher in the rye                                         | D1B   |
+| Salinger, J. D.                                                  | Nine stories                                                   | D1B   |
+| Swift, Jonathan; Van Doren, Carl (ed.)                           | The portable Swift                                             | D2B   |
+| Steinbeck, John                                                  | The winter of our discontent                                   | D2B   |
+| Steinbeck, John                                                  | The pastures of heaven                                         | D2B   |
+| Steinbeck, John                                                  | Cannery Row                                                    | D2B   |
+| Steinbeck, John                                                  | In dubious battle                                              | D2B   |
+| Steinbeck, John                                                  | Tortilla Flat                                                  | D2B   |
+| Steinbeck, John                                                  | The grapes of wrath                                            | D2B   |
+| Steinbeck, John                                                  | The log from the Sea of Cortez                                 | D2B   |
+| Smith, David; Gebbie, Melinda                                    | Reagan for beginners                                           | D2B   |
+| Snow, C. P.                                                      | The new men                                                    | D2B   |
+| Snow, C. P.                                                      | Strangers and brothers, vol. 1                                 | D2B   |
+| Singer, Isaac Bashevis                                           | In my father's court                                           | D2B   |
+| Shaw, George Bernard                                             | Pygmalion / My fair lady                                       | D2B   |
+| Shaw, George Bernard                                             | Three plays for puritans                                       | D2B   |
+| Shaw, George Bernard                                             | Plays unpleasant                                               | D2B   |
+| Sacco, Joe                                                       | Palestine                                                      | D2B   |
+| Seth, Vikram                                                     | An equal music                                                 | D2B   |
+| Solzhenitsyn, Alexander                                          | One day in the life of Ivan Denisovich                         | D2B   |
+| Steinbeck, John                                                  | East of Eden                                                   | D2B   |
+| Hemingway, Ernest                                                | Farewell to arms                                               | D2B   |
+| Patil, Vimla                                                     | Baby names                                                     | D2B   |
+| Steinbeck, John                                                  | The Moon is down                                               | D2B   |
+| Steinbeck, John                                                  | Once there was a war                                           | D2B   |
+| Steinbeck, John                                                  | The short reign of Pippin IV                                   | D2B   |
+| Steinbeck, John                                                  | Of mice and men                                                | D2B   |
+| Steinbeck, John                                                  | Burning bright                                                 | D2B   |
+| Spear, Percival                                                  | A history of India, vol. 2                                     | D2B   |
+| Sriram, V.                                                       | Carnatic summer                                                | D2B   |
+| Iyer, Pico                                                       | The lady and the monk                                          | D2B   |
+| Chandler, Raymond                                                | The long goodbye                                               | D3B   |
+| Chandler, Raymond                                                | The high window                                                | D3B   |
+| Dickens, Charles                                                 | The Pickwick papers                                            | D3B   |
+| Doyle, Sir Arthur Conan                                          | The complete short stories of Sherlock Holmes                  | D3B   |
+| Capote, Truman                                                   | In cold blood                                                  | D3B   |
+| Chesterton, G. K.                                                | The man who was Thursday                                       | D3B   |
+| Collodi, Carlo; Murray, M. A. (tr.)                              | The adventures of Pinocchio                                    | D3B   |
+| Dahl, Roald                                                      | Going solo                                                     | D3B   |
+| Dahl, Roald                                                      | Over to you                                                    | D3B   |
+| Dickens, Charles                                                 | A Christmas carol and other Christmas stories                  | D3B   |
+| Dahl, Roald                                                      | Kiss kiss                                                      | D3B   |
+| Calvino, Italo; Colquhoun, Archibald (tr.); Wright, Peggy (tr.)  | Adam, one afternoon and other stories                          | D3B   |
+| Chandler, Raymond                                                | The little sister                                              | D3B   |
+| Chandler, Raymond                                                | The lady of the lake                                           | D3B   |
+| Chatterjee, Upamanyu                                             | English, August: an Indian story                               | D3B   |
+| Guevara, Ernesto ‘Che’; Alexandra Keeble (tr.)                   | The motorcycle diaries: notes on a Latin American journey      | D3B   |
+| Chandler, Raymond                                                | The high window                                                | D3B   |
+| Dai, Mamang                                                      | The legends of Pensam                                          | D3B   |
+| Carroll, Lewis; Tenniel, John et al. (il.)                       | The complete illustrated works of Lewis Carroll                | D3B   |
+| Doyle, Sir Arthur Conan; Hutchinson, George, et al. (il.)        | Sherlock Holmes: the complete illustrated novels               | D3B   |
+| Clayton, Marie                                                   | Elvis: the illustrated biography                               | D3B   |
+| Desai, Kiran                                                     | The inheritance of loss                                        | D3B   |
+| Dickens, Charles                                                 | Christmas books                                                | D3B   |
+| Verne, Jules                                                     | Around the world in eighty days                                | D3B   |
+| Kluge, Alexander; Richter, Gerhard (ph.); Chalmers, Martin (tr.) | December                                                       | D3B   |
+| Bond, Ruskin (ed.); Saili, Ganesh (ed.)                          | The Landour cookbook                                           | D3B   |
+| Crompton, Richmal; Henry, Thomas (il.)                           | William and the Moon rocket                                    | D3B   |

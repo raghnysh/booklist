@@ -1,0 +1,55 @@
+#+title: About the book list
+#+author: Raghavendra Nyshadham
+#+date: 2024-10-14
+
+* Introduction
+
+The accompanying file =list.org= is a list of the books that I own.  I
+use it to find books in my shelves.
+
+The list is not a proper catalogue of the books.  It includes only the
+attributes of a book that I find useful to locate the book: the name
+of the author of the book, the title of the book, and the location of
+the book in my shelves.  So it does not have the name of the publisher
+of the book, the date of the publication of the book, and other such
+standard bibliographic data.
+
+* The format of the list
+
+The list is just an Org table, which, for convenience, I keep in a
+separate file.  A table is enough for locating the book in the
+shelves.  A database system such as BibTeX, biblatex, Recutils, or
+MySQL is overkill for my usage.
+
+The table has three columns.  The first row of the table is a data
+line with the table headers, and the second row a horizontal line with
+dashes (a hline).  The third and later rows of the table are data
+lines, one for each book.  The three fields of the row corresponding
+to a book are for the three attributes of the book that I have
+mentioned above:
+1. The first field of the row is for the author of the book.  It also
+   includes the names of the other creators of the book, such as
+   translators and illustrators.  I use the following abbreviations
+   for these auxiliary creators: ed. for editor, il. for illustrator,
+   ph. for photographer, and tr. for translator.  I may put the name
+   of the publisher also in this field if it indicates something about
+   the nature of the book; I then use the abbreviation pu. for
+   publisher.
+2. The second field of the row is for the title of the book.  I may
+   include tags, notes, and other information about the book in this
+   field.
+3. The last field of the row is for the location of the book in the
+   shelves.  I have three bookcases, which together have 16 racks,
+   which are identified by the letters A–P.  Each of these racks has
+   three shelves, which are identified by the numbers 1–3; the top
+   shelf of the rack is numbered 1, the middle shelf 2, and the bottom
+   shelf 3.  Within each of these shelves, I may keep two rows of
+   books, one behind the other, if space becomes a crunch; the back
+   row is then identified by the letter B, and the front row by the
+   letter F.  Thus, for example, D1F means the front row in the top
+   shelf of rack D.  If there is only one row in a shelf, it is
+   identified as B, so that when I need to add a row to the shelf, I
+   can push the current row back, and put the new row in the front,
+   without invalidating the locations in this table.
+
+# End of file
