@@ -12,10 +12,13 @@
     (when (re-search-forward "#\\+name: *list" nil t)
       (org-table-goto-line 2)
       (org-table-sort-lines nil ?a)
-      (org-table-insert-column)
       (goto-char (org-table-end))
-      (insert "#+tblfm: $1=@#-1")
-      (org-table-calc-current-TBLFM))
+      (org-indent-line)
+      (insert
+       "#+begin_center\n"
+       (format "There are %d books in the above list.\n"
+               (length (org-table-get-remote-range "list" "@2..@>")))
+       "#+end_center\n"))
     (let ((org-export-with-toc nil)
           (org-html-validation-link nil))
       (org-html-export-to-html))))
