@@ -1,9 +1,13 @@
+(defun my-export-current-buffer-to-html ()
+  "Export the current buffer to HTML with some basic options."
+  (let ((org-export-with-toc nil)
+        (org-html-validation-link nil))
+    (org-html-export-to-html)))
+
 (defun my-export-book-list-doc-to-html ()
   "Export the book list documentation to HTML."
   (with-current-buffer (find-file-noselect "doc.org")
-    (let ((org-export-with-toc nil)
-          (org-html-validation-link nil))
-      (org-html-export-to-html))))
+    (my-export-current-buffer-to-html)))
 
 (defun my-export-book-list-to-html ()
   "Export the book list to HTML."
@@ -19,6 +23,4 @@
        (format "There are %d books in the above list.\n"
                (length (org-table-get-remote-range "list" "@2..@>")))
        "#+end_center\n"))
-    (let ((org-export-with-toc nil)
-          (org-html-validation-link nil))
-      (org-html-export-to-html))))
+    (my-export-current-buffer-to-html)))
