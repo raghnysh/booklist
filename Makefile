@@ -8,8 +8,7 @@ clean:
 	${RM} doc.html list.html
 
 upload: all
-	rclone copyto doc.html gdrive-raghnysh:book-list-doc.html
-	rclone copyto list.html gdrive-raghnysh:book-list.html
+	rsync doc.html list.html raghnysh.com:domains/raghnysh.com/public_html/booklist
 
 doc.html: doc.org settings.el
 	${emacs} --eval='(my-export-book-list-doc-to-html)'
