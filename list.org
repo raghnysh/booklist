@@ -1,6 +1,6 @@
 #+title: Books
 #+author: Raghavendra Nyshadham
-#+date: 2024-10-14
+#+date: 2024-10-15
 
 # ====================================================================
 #                                NOTE
@@ -17,87 +17,193 @@
 # ====================================================================
 
 #+name: list
-| Author                                                           | Title                                                          | Shelf |
-|------------------------------------------------------------------+----------------------------------------------------------------+-------|
-| Seth, Vikram                                                     | Two lives                                                      | D1B   |
-| Stephenson, Neal                                                 | In the beginning was the command line                          | D1B   |
-| Seth, Vikram                                                     | A suitable boy                                                 | D1B   |
-| Stoppard, Mirriam                                                | The new pregnancy and birth book                               | D1B   |
-| Pondicherry Science Forum                                        | Issues involved in drug policy                                 | D1B   |
-| Sainath, P.                                                      | Everybody loves a good drought                                 | D1B   |
-| Slawenski, Kenneth                                               | Salinger: a life raised high                                   | D1B   |
-| Ramachandran, Vilayanur                                          | The emerging mind                                              | D1B   |
-| Ramachandran, V.S.; Blakeslee, Sandra                            | Phantoms in the brain                                          | D1B   |
-| Radhakrishnan, S.                                                | The present crisis of faith                                    | D1B   |
-| Sahitya Akademi (pu.)                                            | Indian literature, vol. 178, Mar–Apr, 1997                     | D1B   |
-| Sahitya Akademi (pu.)                                            | Indian literature, vol. 182, Nov–Dec, 1997                     | D1B   |
-| Rao, Raja                                                        | Kanthapura                                                     | D1B   |
-| Rankin, Ian                                                      | The naming of the dead                                         | D1B   |
-| Perec, Georges                                                   | Life: a user's manual                                          | D1B   |
-| Potok, Chaim                                                     | My name is Asher Lev                                           | D1B   |
-| Potok, Chaim                                                     | The promise                                                    | D1B   |
-| Potok, Chaim                                                     | In the beginning                                               | D1B   |
-| Sarma, Visnu; Rajan, Chandra (tr.)                               | The Pancatantra                                                | D1B   |
-| Salinger, J. D.                                                  | Raise high the roofbeam, carpenters / Seymour: an introduction | D1B   |
-| Sarkar, H.; Misra, B. N.; Archaeological Survey of India (pu.)   | Nagarjunakonda                                                 | D1B   |
-| Shah, Idries                                                     | The exploits of the incomparable Mulla Nasrudin                | D1B   |
-| Simon, I. M.                                                     | Meghalaya                                                      | D1B   |
-| Singer, Isaac Bashevis                                           | The estate                                                     | D1B   |
-| Salinger, J. D.                                                  | The catcher in the rye                                         | D1B   |
-| Salinger, J. D.                                                  | Nine stories                                                   | D1B   |
-| Swift, Jonathan; Van Doren, Carl (ed.)                           | The portable Swift                                             | D2B   |
-| Steinbeck, John                                                  | The winter of our discontent                                   | D2B   |
-| Steinbeck, John                                                  | The pastures of heaven                                         | D2B   |
-| Steinbeck, John                                                  | Cannery Row                                                    | D2B   |
-| Steinbeck, John                                                  | In dubious battle                                              | D2B   |
-| Steinbeck, John                                                  | Tortilla Flat                                                  | D2B   |
-| Steinbeck, John                                                  | The grapes of wrath                                            | D2B   |
-| Steinbeck, John                                                  | The log from the Sea of Cortez                                 | D2B   |
-| Smith, David; Gebbie, Melinda                                    | Reagan for beginners                                           | D2B   |
-| Snow, C. P.                                                      | The new men                                                    | D2B   |
-| Snow, C. P.                                                      | Strangers and brothers, vol. 1                                 | D2B   |
-| Singer, Isaac Bashevis                                           | In my father's court                                           | D2B   |
-| Shaw, George Bernard                                             | Pygmalion / My fair lady                                       | D2B   |
-| Shaw, George Bernard                                             | Three plays for puritans                                       | D2B   |
-| Shaw, George Bernard                                             | Plays unpleasant                                               | D2B   |
-| Sacco, Joe                                                       | Palestine                                                      | D2B   |
-| Seth, Vikram                                                     | An equal music                                                 | D2B   |
-| Solzhenitsyn, Alexander                                          | One day in the life of Ivan Denisovich                         | D2B   |
-| Steinbeck, John                                                  | East of Eden                                                   | D2B   |
-| Hemingway, Ernest                                                | Farewell to arms                                               | D2B   |
-| Patil, Vimla                                                     | Baby names                                                     | D2B   |
-| Steinbeck, John                                                  | The Moon is down                                               | D2B   |
-| Steinbeck, John                                                  | Once there was a war                                           | D2B   |
-| Steinbeck, John                                                  | The short reign of Pippin IV                                   | D2B   |
-| Steinbeck, John                                                  | Of mice and men                                                | D2B   |
-| Steinbeck, John                                                  | Burning bright                                                 | D2B   |
-| Spear, Percival                                                  | A history of India, vol. 2                                     | D2B   |
-| Sriram, V.                                                       | Carnatic summer                                                | D2B   |
-| Iyer, Pico                                                       | The lady and the monk                                          | D2B   |
-| Chandler, Raymond                                                | The long goodbye                                               | D3B   |
-| Chandler, Raymond                                                | The high window                                                | D3B   |
-| Dickens, Charles                                                 | The Pickwick papers                                            | D3B   |
-| Doyle, Sir Arthur Conan                                          | The complete short stories of Sherlock Holmes                  | D3B   |
-| Capote, Truman                                                   | In cold blood                                                  | D3B   |
-| Chesterton, G. K.                                                | The man who was Thursday                                       | D3B   |
-| Collodi, Carlo; Murray, M. A. (tr.)                              | The adventures of Pinocchio                                    | D3B   |
-| Dahl, Roald                                                      | Going solo                                                     | D3B   |
-| Dahl, Roald                                                      | Over to you                                                    | D3B   |
-| Dickens, Charles                                                 | A Christmas carol and other Christmas stories                  | D3B   |
-| Dahl, Roald                                                      | Kiss kiss                                                      | D3B   |
-| Calvino, Italo; Colquhoun, Archibald (tr.); Wright, Peggy (tr.)  | Adam, one afternoon and other stories                          | D3B   |
-| Chandler, Raymond                                                | The little sister                                              | D3B   |
-| Chandler, Raymond                                                | The lady of the lake                                           | D3B   |
-| Chatterjee, Upamanyu                                             | English, August: an Indian story                               | D3B   |
-| Guevara, Ernesto ‘Che’; Alexandra Keeble (tr.)                   | The motorcycle diaries: notes on a Latin American journey      | D3B   |
-| Chandler, Raymond                                                | The high window                                                | D3B   |
-| Dai, Mamang                                                      | The legends of Pensam                                          | D3B   |
-| Carroll, Lewis; Tenniel, John et al. (il.)                       | The complete illustrated works of Lewis Carroll                | D3B   |
-| Doyle, Sir Arthur Conan; Hutchinson, George, et al. (il.)        | Sherlock Holmes: the complete illustrated novels               | D3B   |
-| Clayton, Marie                                                   | Elvis: the illustrated biography                               | D3B   |
-| Desai, Kiran                                                     | The inheritance of loss                                        | D3B   |
-| Dickens, Charles                                                 | Christmas books                                                | D3B   |
-| Verne, Jules                                                     | Around the world in eighty days                                | D3B   |
-| Kluge, Alexander; Richter, Gerhard (ph.); Chalmers, Martin (tr.) | December                                                       | D3B   |
-| Bond, Ruskin (ed.); Saili, Ganesh (ed.)                          | The Landour cookbook                                           | D3B   |
-| Crompton, Richmal; Henry, Thomas (il.)                           | William and the Moon rocket                                    | D3B   |
+| Author                                                                                          | Title                                                                  | Shelf |
+|-------------------------------------------------------------------------------------------------+------------------------------------------------------------------------+-------|
+| Seth, Vikram                                                                                    | Two lives                                                              | D1B   |
+| Stephenson, Neal                                                                                | In the beginning was the command line                                  | D1B   |
+| Seth, Vikram                                                                                    | A suitable boy                                                         | D1B   |
+| Stoppard, Mirriam                                                                               | The new pregnancy and birth book                                       | D1B   |
+| Pondicherry Science Forum                                                                       | Issues involved in drug policy                                         | D1B   |
+| Sainath, P.                                                                                     | Everybody loves a good drought                                         | D1B   |
+| Slawenski, Kenneth                                                                              | Salinger: a life raised high                                           | D1B   |
+| Ramachandran, Vilayanur                                                                         | The emerging mind                                                      | D1B   |
+| Ramachandran, V.S.; Blakeslee, Sandra                                                           | Phantoms in the brain                                                  | D1B   |
+| Radhakrishnan, S.                                                                               | The present crisis of faith                                            | D1B   |
+| Sahitya Akademi (pu.)                                                                           | Indian literature, vol. 178, Mar–Apr, 1997                             | D1B   |
+| Sahitya Akademi (pu.)                                                                           | Indian literature, vol. 182, Nov–Dec, 1997                             | D1B   |
+| Rao, Raja                                                                                       | Kanthapura                                                             | D1B   |
+| Rankin, Ian                                                                                     | The naming of the dead                                                 | D1B   |
+| Perec, Georges                                                                                  | Life: a user's manual                                                  | D1B   |
+| Potok, Chaim                                                                                    | My name is Asher Lev                                                   | D1B   |
+| Potok, Chaim                                                                                    | The promise                                                            | D1B   |
+| Potok, Chaim                                                                                    | In the beginning                                                       | D1B   |
+| Sarma, Visnu; Rajan, Chandra (tr.)                                                              | The Pancatantra                                                        | D1B   |
+| Salinger, J. D.                                                                                 | Raise high the roofbeam, carpenters / Seymour: an introduction         | D1B   |
+| Sarkar, H.; Misra, B. N.; Archaeological Survey of India (pu.)                                  | Nagarjunakonda                                                         | D1B   |
+| Shah, Idries                                                                                    | The exploits of the incomparable Mulla Nasrudin                        | D1B   |
+| Simon, I. M.                                                                                    | Meghalaya                                                              | D1B   |
+| Singer, Isaac Bashevis                                                                          | The estate                                                             | D1B   |
+| Salinger, J. D.                                                                                 | The catcher in the rye                                                 | D1B   |
+| Salinger, J. D.                                                                                 | Nine stories                                                           | D1B   |
+| Swift, Jonathan; Van Doren, Carl (ed.)                                                          | The portable Swift                                                     | D2B   |
+| Steinbeck, John                                                                                 | The winter of our discontent                                           | D2B   |
+| Steinbeck, John                                                                                 | The pastures of heaven                                                 | D2B   |
+| Steinbeck, John                                                                                 | Cannery Row                                                            | D2B   |
+| Steinbeck, John                                                                                 | In dubious battle                                                      | D2B   |
+| Steinbeck, John                                                                                 | Tortilla Flat                                                          | D2B   |
+| Steinbeck, John                                                                                 | The grapes of wrath                                                    | D2B   |
+| Steinbeck, John                                                                                 | The log from the Sea of Cortez                                         | D2B   |
+| Smith, David; Gebbie, Melinda                                                                   | Reagan for beginners                                                   | D2B   |
+| Snow, C. P.                                                                                     | The new men                                                            | D2B   |
+| Snow, C. P.                                                                                     | Strangers and brothers, vol. 1                                         | D2B   |
+| Singer, Isaac Bashevis                                                                          | In my father's court                                                   | D2B   |
+| Shaw, George Bernard                                                                            | Pygmalion / My fair lady                                               | D2B   |
+| Shaw, George Bernard                                                                            | Three plays for puritans                                               | D2B   |
+| Shaw, George Bernard                                                                            | Plays unpleasant                                                       | D2B   |
+| Sacco, Joe                                                                                      | Palestine                                                              | D2B   |
+| Seth, Vikram                                                                                    | An equal music                                                         | D2B   |
+| Solzhenitsyn, Alexander                                                                         | One day in the life of Ivan Denisovich                                 | D2B   |
+| Steinbeck, John                                                                                 | East of Eden                                                           | D2B   |
+| Hemingway, Ernest                                                                               | Farewell to arms                                                       | D2B   |
+| Patil, Vimla                                                                                    | Baby names                                                             | D2B   |
+| Steinbeck, John                                                                                 | The Moon is down                                                       | D2B   |
+| Steinbeck, John                                                                                 | Once there was a war                                                   | D2B   |
+| Steinbeck, John                                                                                 | The short reign of Pippin IV                                           | D2B   |
+| Steinbeck, John                                                                                 | Of mice and men                                                        | D2B   |
+| Steinbeck, John                                                                                 | Burning bright                                                         | D2B   |
+| Spear, Percival                                                                                 | A history of India, vol. 2                                             | D2B   |
+| Sriram, V.                                                                                      | Carnatic summer                                                        | D2B   |
+| Iyer, Pico                                                                                      | The lady and the monk                                                  | D2B   |
+| Chandler, Raymond                                                                               | The long goodbye                                                       | D3B   |
+| Chandler, Raymond                                                                               | The high window                                                        | D3B   |
+| Dickens, Charles                                                                                | The Pickwick papers                                                    | D3B   |
+| Doyle, Sir Arthur Conan                                                                         | The complete short stories of Sherlock Holmes                          | D3B   |
+| Capote, Truman                                                                                  | In cold blood                                                          | D3B   |
+| Chesterton, G. K.                                                                               | The man who was Thursday                                               | D3B   |
+| Collodi, Carlo; Murray, M. A. (tr.)                                                             | The adventures of Pinocchio                                            | D3B   |
+| Dahl, Roald                                                                                     | Going solo                                                             | D3B   |
+| Dahl, Roald                                                                                     | Over to you                                                            | D3B   |
+| Dickens, Charles                                                                                | A Christmas carol and other Christmas stories                          | D3B   |
+| Dahl, Roald                                                                                     | Kiss kiss                                                              | D3B   |
+| Calvino, Italo; Colquhoun, Archibald (tr.); Wright, Peggy (tr.)                                 | Adam, one afternoon and other stories                                  | D3B   |
+| Chandler, Raymond                                                                               | The little sister                                                      | D3B   |
+| Chandler, Raymond                                                                               | The lady of the lake                                                   | D3B   |
+| Chatterjee, Upamanyu                                                                            | English, August: an Indian story                                       | D3B   |
+| Guevara, Ernesto ‘Che’; Alexandra Keeble (tr.)                                                  | The motorcycle diaries: notes on a Latin American journey              | D3B   |
+| Chandler, Raymond                                                                               | The high window                                                        | D3B   |
+| Dai, Mamang                                                                                     | The legends of Pensam                                                  | D3B   |
+| Carroll, Lewis; Tenniel, John, et al. (il.)                                                     | The complete illustrated works of Lewis Carroll                        | D3B   |
+| Doyle, Sir Arthur Conan; Hutchinson, George, et al. (il.)                                       | Sherlock Holmes: the complete illustrated novels                       | D3B   |
+| Clayton, Marie                                                                                  | Elvis: the illustrated biography                                       | D3B   |
+| Desai, Kiran                                                                                    | The inheritance of loss                                                | D3B   |
+| Dickens, Charles                                                                                | Christmas books                                                        | D3B   |
+| Verne, Jules                                                                                    | Around the world in eighty days                                        | D3B   |
+| Kluge, Alexander; Richter, Gerhard (ph.); Chalmers, Martin (tr.)                                | December                                                               | D3B   |
+| Bond, Ruskin (ed.); Saili, Ganesh (ed.)                                                         | The Landour cookbook                                                   | D3B   |
+| Crompton, Richmal; Henry, Thomas (il.)                                                          | William and the Moon rocket                                            | D3B   |
+| Eckel, Bruce; Allison, Chuck D.                                                                 | Thinking in C++, vol. 2: practical programming                         | C1B   |
+| Gaskell, Elizabeth                                                                              | Cousin Phillis and other stories                                       | C1B   |
+| Ghosh, Amitav                                                                                   | The glass palace                                                       | C1B   |
+| Farrell, J. G.                                                                                  | The hill station                                                       | C1B   |
+| Faulkner, William                                                                               | The unvanquished                                                       | C1B   |
+| Grass, Günter                                                                                   | Headbirths or the Germans are dying out                                | C1B   |
+| Graham, Kenneth                                                                                 | The wind in the willows                                                | C1B   |
+| George, T. J. S.                                                                                | MS: a life in music                                                    | C1B   |
+| Gantzer, Hugh; Gantzer, Colleen                                                                 | Looking beyond                                                         | C1B   |
+| Gangopadhyay, Sunil                                                                             | Those days                                                             | C1B   |
+| Gangopadhyay, Sunil                                                                             | Days and nights in the forest                                          | C1B   |
+| Gandhi, Nighat. M.                                                                              | Ghalib at dusk and other stories                                       | C1B   |
+| Fitzgerald, Francis Scott                                                                       | Tender is the night                                                    | C1B   |
+| Fitzgerald, Francis Scott                                                                       | The diamond as big as the Ritz                                         | C1B   |
+| Kernighan, Brian W.; Pike, Rob                                                                  | The UNIX programming environment                                       | C1B   |
+| Beck, Kent                                                                                      | Test-driven development by example                                     | C1B   |
+| Grass, Günter                                                                                   | My century                                                             | C1B   |
+| Falletti, Franca                                                                                | The David and the Accademia Gallery                                    | C1B   |
+| Fry, Stephen                                                                                    | America                                                                | C1B   |
+| Fitzgerald, Francis Scott                                                                       | The great Gatsby                                                       | C1B   |
+| Farrell, J. G.                                                                                  | The siege of Krishnapur                                                | C1B   |
+| Dougherty, Dale; Robbins, ‎Arnold                                                                | sed & awk, 2nd ed.                                                     | C1B   |
+| Levine, John R.; ‎Mason, Tony; Brown,‎ Doug                                                       | lex & yacc                                                             | C1B   |
+| Tondo Clovis L.; Gimpel, Scott E.                                                               | The C answer book, 2nd ed.                                             | C1B   |
+| Kernighan, Brian W.; Pike, Rob                                                                  | The practice of programming                                            | C1B   |
+| Martin, Robert C.                                                                               | UML for Java programmers                                               | C1B   |
+| Fowler, Martin                                                                                  | UML distilled: a brief guide to the standard object modelling language | C1B   |
+| Mumford, David                                                                                  | The red book of varieties and schemes                                  | C2B   |
+| Eisenbud, David                                                                                 | Commutative algebra with a view towards algebraic geometry             | C2B   |
+| Blake, Ian; Seroussi, Gadiel; Smart, Nigel                                                      | Elliptic curves in cryptography                                        | C2B   |
+| Mac Lane, Saunders                                                                              | Categories for the working mathematician, 2nd ed.                      | C2B   |
+| Mumford, David; Ramanujam, C. P.; Manin, Yuri                                                   | Abelian varieties, 2nd ed.                                             | C2B   |
+| Hervé, Michel                                                                                   | Several complex variables: local theory, 2nd ed.                       | C2B   |
+| Husemoller, Dale                                                                                | Fibre bundles, 2nd ed.                                                 | C2B   |
+| Okonek, Christian; Schneider, Michael; Spindler, Heinz                                          | Vector bundles on complex projective spaces                            | C2B   |
+| Mukai, Shigeru                                                                                  | An introduction to invariants and moduli                               | C2B   |
+| Johnstone, P. T.                                                                                | Topos theory                                                           | C2B   |
+| Sernesi, Edoardo                                                                                | Deformations of algebraic schemes                                      | C2B   |
+| Soulé, C.; Abramovich, D.; Burnol, J-F.; Kramer, J.                                             | Lectures on Arakelov geometry                                          | C2B   |
+| Bourbaki, N.                                                                                    | Algebra II: chapters 4–7                                               | C2B   |
+| Bourbaki, N.                                                                                    | General topology: chapters 5–10                                        | C2B   |
+| Hindry, Marc; Silverman, J. H.                                                                  | Diophantine geometry: an introduction                                  | C2B   |
+| Bourbaki, N.                                                                                    | Algèbre: chapitre 8                                                    | C2B   |
+| Bourbaki, N.                                                                                    | Algèbre: chapitre 9                                                    | C2B   |
+| Mac Lane, Saunders; Moerdijk, Ieke                                                              | Sheaves in geometry and logic: a first introduction to topos theory    | C2B   |
+| Malgrange, B.; Narasimhan, R.                                                                   | Lectures on the theory of functions of several complex variables       | C2B   |
+| Liu Qing; Erné, Reinie (tr.)                                                                    | Algebraic geometry and arithmetic curves                               | C2B   |
+| Bourbaki, N.                                                                                    | Algèbre commutative: chapitres 8 et 9                                  | C2B   |
+| Gille, Philippe; Szamuely, Tamas                                                                | Central simple algebras and Galois cohomology                          | C2B   |
+| Weibel, Charles A.                                                                              | An introduction to homological algebra                                 | C2B   |
+| Warner, Frank W.                                                                                | Foundations of differentiable manifolds and Lie groups                 | C2B   |
+| Zariski, Oscar; Samuel, Pierre                                                                  | Commutative algebra, vol. II                                           | C2B   |
+| Rius; Appignanesi, Richard (tr.)                                                                | Marx for beginners                                                     | C3B   |
+| Ruaro, Giuliapaola                                                                              | Strolling around Trieste                                               | C3B   |
+| Rumi; Barks, Coleman (tr.), Moyne, John (tr.)                                                   | The essential Rumi                                                     | C3B   |
+| Rushdie, Salman                                                                                 | Haroun and the sea of stories                                          | C3B   |
+| Page, Bruce; Leitch, David; Knightley, Phillip                                                  | Philby: the spy who betrayed a generation                              | C3B   |
+| Schulberg, Budd                                                                                 | What makes Sammy run?                                                  | C3B   |
+| Sikorski, Werner; Laabs, Rainer                                                                 | Checkpoint Charlie and the Wall                                        | C3B   |
+| Seth, Vikram                                                                                    | From Heaven Lake: travels through Sinkiang and Tibet                   | C3B   |
+| Seth, Vikram                                                                                    | All you who sleep tonight                                              | C3B   |
+| Ray, Satyajit                                                                                   | Our films, their films                                                 | C3B   |
+| Ray, Satyajit                                                                                   | Childhood days: a memoir                                               | C3B   |
+| Ray, Sukumar; Ray, Sukumar (il.); Chattarji, Sampurna (tr.)                                     | Abol tabol: the nonsense world of Sukumar Ray                          | C3B   |
+| Ridgway, Keith                                                                                  | Animals                                                                | C3B   |
+| Grass, Günter                                                                                   | The tin drum                                                           | C3B   |
+| Gandhi, Maneka                                                                                  | The Penguin book of Hindu names                                        | C3B   |
+| Greene, Graham                                                                                  | Our man in Havana                                                      | C3B   |
+| Gammond, Peter; Clayton, Peter                                                                  | The bluffer's guide to jazz: bluff your way in jazz                    | C3B   |
+| Ghosh, Amitav                                                                                   | The Calcutta chromosome: a novel of fevers, delirium and discovery     | C3B   |
+| Ghosh, Amitav                                                                                   | The shadow lines                                                       | C3B   |
+| Francis, Dick                                                                                   | Field of thirteen                                                      | C3B   |
+| Eco, Umberto; Weaver, William (tr.)                                                             | The island of the day before                                           | C3B   |
+| Eco, Umberto; Weaver, William (tr.)                                                             | The name of the rose                                                   | C3B   |
+| Flores, Angel (ed.)                                                                             | Great Spanish stories                                                  | C3B   |
+| Platts, John T.                                                                                 | A dictionary of Urdū, classical Hindī, and English                     | C3B   |
+| Khokhar, Wasi Ullah                                                                             | Student Urdu to English dictionary (2022 ed.)                          | C3B   |
+| Rand McNally & Company                                                                          | The new Rand McNally pocket world atlas (1961 ed.)                     | B1B   |
+| Hayford, Jack                                                                                   | Taking hold of tomorrow                                                | B1B   |
+| RBC Ministries                                                                                  | Our daily bread, January–December, vol. 8-02                           | B1B   |
+| Bhatnagar, P. S.                                                                                | Cambridge self Hindi teacher                                           | B1B   |
+| Ragazzini, Giuseppe; Biagi, Adele                                                               | Il nuovo Ragazzini / Biagi concise: dizionario inglese et italiano     | B1B   |
+| Crowther, Geoff; Finlay, Hugh; Raj, Prakash A.; Wheeler, Tony; Lonely Planet (pu.)              | India: a travel survival kit, 4th ed. (June, 1990)                     | B1B   |
+| Jaico Books (pu.)                                                                               | Hindustani for the tourist: a phonetic phrase book for everyday use    | B1B   |
+| Bhat, Sitaram P.                                                                                | Hindi made easy                                                        | B1B   |
+| Berlitz (pu.)                                                                                   | Inglese: manuale di conversazione e lessico                            | B1B   |
+| Doxiadis, Apostolos; Papadimitriou, Christos H.; Papadatos, Alecos (il.); Di Donna, Annie (il.) | Logicomix: an epic search for truth                                    | B1B   |
+| Sankrityayan, Rahul; Kierman, Victor (tr.)                                                      | From Volga to Ganga                                                    | B1B   |
+| Fonseca, Carlos                                                                                 | Colonel Lágrimas                                                       | B1B   |
+| Bhandari, A. K., et al. (ed.)                                                                   | Elliptic curves, modular forms and cryptography                        | B1B   |
+| Richert, H.-E.; Srinivasan, S.                                                                  | Sieve methods                                                          | B1B   |
+| Siegel, Carl Ludwig                                                                             | Advanced analytic number theory                                        | B1B   |
+| Cassels, John William Scott (ed.); Fröhlich, Albrecht (ed.)                                     | Algebraic number theory                                                | B1B   |
+| Silverman, J. H.                                                                                | The arithmetic of elliptic curves                                      | B1B   |
+| Allouche, Jean-Paul; Shallit, Jeffrey                                                           | Automatic sequences: theory, applications, generalizations             | B1B   |
+| Ireland, Kenneth; Rosen, Michael                                                                | A classical introduction to modern number theory                       | B1B   |
+| Fraleigh, John B.; Verma, D. N.                                                                 | A first course in abstract algebra, 3rd ed.                            | B1B   |
+| Apostol, Tom M.                                                                                 | Introduction to analytic number theory                                 | B1B   |
+| Samuel, Pierre                                                                                  | Algebraic theory of numbers                                            | B1B   |
+| Wells, H. G.                                                                                    | The war of the worlds                                                  | B1B   |
+| Waugh, Evelyn                                                                                   | Brideshead revisited                                                   | B1B   |
+| Narang, Gopi Chand                                                                              | Let's learn Urdu: beginner's manual for Urdu script                    | B1B   |
+| Narang, Gopi Chand                                                                              | Workbook: Let's learn Urdu                                             | B1B   |
+| Delacy, Richard                                                                                 | Read and write Urdu script                                             | B1B   |
+| Qureshi, Bashir Ahmed                                                                           | Practical standard 21st century dictionary: Urdu into English          | B1B   |
+| Punjabi University (pu.)                                                                        | Punjabi-English dictionary                                             | B2B   |
