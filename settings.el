@@ -4,7 +4,9 @@
   "Export the book list documentation to HTML."
   (with-current-buffer (find-file-noselect "doc.org")
     (let ((org-export-with-toc nil)
-          (org-html-validation-link nil))
+          (org-html-validation-link nil)
+          (org-html-doctype "html5")
+          (org-html-html5-fancy t))
       (org-html-export-to-html))))
 
 (defvar my-datatables-js-url
